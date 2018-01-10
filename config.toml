@@ -1,0 +1,14 @@
+baseURL = "https://drew.dara-abrams.com/"
+languageCode = "en-us"
+title = "Drew Dara-Abrams"
+author = "Drew Dara-Abrams"
+theme = "cocoa"
+
+[params]
+twitter = "//twitter.com/drewdaraabrams"
+github = "//github.com/drewda"
+linkedin = "//linkedin.com/in/drewda"
+email = "dda@dara-abrams.com"
+features = ["responsive", "404", "icons", "metadata"]
+
+# googleAnalytics = "UA-123-45"
