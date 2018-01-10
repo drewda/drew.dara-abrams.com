@@ -2,7 +2,7 @@ baseURL = "https://drew.dara-abrams.com/"
 languageCode = "en-us"
 title = "Drew Dara-Abrams"
 author = "Drew Dara-Abrams"
-theme = "cocoa"
+theme = "cocoa-hugo-theme"
 
 [params]
 twitter = "//twitter.com/drewdaraabrams"
