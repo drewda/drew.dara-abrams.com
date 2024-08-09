@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Drew Dara-Abrams"
 author = "Drew Dara-Abrams"
 theme = "cocoa-hugo-theme"
-googleAnalytics = "UA-47531031-2"
 
 [params]
 twitter = "//twitter.com/drewdaraabrams"
